@@ -9,7 +9,7 @@ const CONFIG = {
     github: {
       display: true,
       header: 'Github Projects',
-      mode: 'automatic',
+      mode: 'manual',
       automatic: {
         sortBy: 'stars',
         limit: 8,
@@ -19,7 +19,13 @@ const CONFIG = {
         },
       },
       manual: {
-        projects: [],
+        projects: [
+          'bali78456/Obsidian',
+          'bali78456/Escape_The_Maze',
+          'bali78456/Knight-In-Dungeon',
+          'bali78456/PS',
+          'bali78456/Algorithm-Study'
+        ],
       },
     },
     external: {
