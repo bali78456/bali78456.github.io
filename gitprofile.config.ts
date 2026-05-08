@@ -73,7 +73,7 @@ const CONFIG = {
       institution: '수원대학교',
       degree: '재학중 (4학년)',
       from: '2021',
-      to: 'Present',
+      to: '현재',
     },
   ],
   publications: [], // 논문 없음
